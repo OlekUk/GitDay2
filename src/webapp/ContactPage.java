@@ -3,6 +3,8 @@ package webapp;
 public class ContactPage {
 
     //facebook
-    //Twiter
+    //Twitter
     //instagram
+    //youtube
+    //email
 }
